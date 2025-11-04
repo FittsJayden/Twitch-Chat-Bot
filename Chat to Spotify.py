@@ -20,8 +20,8 @@ CHANNEL = '#sttifs'
 
 #spotify information
 username = 'fittsjayden'
-CLIENT_ID = '0245db36b1924b288d4785188422affd'
-CLIENT_SECRET = 'badd729f2f484de097dac2bcee36da79'
+CLIENT_ID = '###'
+CLIENT_SECRET = '####'
 redirect_uri = 'http://127.0.0.1:8000'
 scope = 'user-modify-playback-state'
 token = util.prompt_for_user_token(username, scope, CLIENT_ID, CLIENT_SECRET, redirect_uri)
@@ -108,4 +108,5 @@ while True:
         startident = 0
         s = start()
     else:
+
         readchat(s)
