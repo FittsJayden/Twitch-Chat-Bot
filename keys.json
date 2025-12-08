@@ -1,0 +1,14 @@
+{
+  "spotify": {
+    "id": "REPLACE WITH SPOTIFY_CLIENT_ID",
+    "secret": "REPLACE WITH SPOTIFY_SECRET",
+    "access": "",
+    "refresh": ""
+  },
+  "twitch": {
+    "id": "REPLACE WITH TWITCH_CLIENT_ID",
+    "secret": "REPLACE WITH TWITCH_SECRET",
+    "access": "",
+    "refresh": ""
+  }
+}
